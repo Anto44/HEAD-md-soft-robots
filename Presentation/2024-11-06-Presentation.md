@@ -3,22 +3,27 @@
 - Master Media Design + O2R
 
 ## Area of intervention
-My project focus on the concept of creating a perched soft robot acting as a witness catching traces of your life by archiving them as a time capsule 
+Witnessing and catching traces of  life by archiving them through a time capsule. 
  
 ![](images/spiderweb.jpg)
 ![](images/reversereminder_inspi1.jpg)
 
 
 ## Research Question
-What do we left behind us ? Traces are left, where and how archiving them ?
+What do we left behind us ? 
+How and where could we archive it ?
+How to create a tool allowing the record of our passage ?
 How to habitate the ceiling as a witness space of what is under ?
 
 ## Research
+
+![](images/miro.png)
+
 Through my research I focus on three main things :
 
-### 1. Time avaibility
+### 1. Time availability
 
-I firstly think about my bookshelf being a representation of the time I dont have to read the book I bought 
+I firstly think about my bookshelf being a physical representation of the time I dont have.
 
 ![](images/bookshelf.jpg)
 
@@ -52,6 +57,8 @@ All those bulb or hole in this inhabitated area.
 
 ![](images/ceiling.png)
 
+![](images/ceiling2.png)
+
 Those question lead me to these following keywords :
 
 - Verticality/ horizontality
@@ -63,25 +70,47 @@ Those question lead me to these following keywords :
 - Time based interaction
 - Ungravity
 
-![](images/ceiling2.png)
+That lead me to draw different sketches about using the ceiling as a starting point :
+
+![](images/process2.png)
+![](images/process3.png)
+![](images/paper_prototype.jpeg)
+
 
 ## Insights
  There is always traces of our passage everywhere
 
- We specifically repeat everyday our habits in our domestic place
+What do we left when we will be gone (for the day/ after death)
+
+Inaccessibility through locking or height as a way of capturing and exposing memories/traces
  
  We never really think about using the ceiling as a disposal space
 
 ## Three prototypes
 
-### 1.The light catcher
+### 1.MEMENTO MORI CALENDAR
+A soft robot performing the time passing
+
+#### Summary
+Working as a clock of life, this robot spread a roll of paper going from the ceiling to the groundfloor. As a metaphor of the death coming this robot warn the user of the time passing with some indication during the process of time flying. 
+
+#### How does it work ?
+The paper going out is already printed delivering message down to the user as the time or any memories of the past through sentence and images.
+
+
+![](images/mementomori_prototype.jpeg)
+![](images/mementomori_storyboard.jpg)
+
+
+### 2.The light catcher
 A soft robot helping filling your ceiling
 
 #### Summary
-Working as a life-things catcher, this soft robot display itself everyday in the middle of your living room allowing you to hang stuff on it.
+Working as a life-things catcher, this soft robot display itself everyday in the middle of your living room (around a bulb) allowing the user to hang stuff on it. 
+(still have to decide the rules of it)
 
 #### How does it work ?
-The net is going down at a random moment of the day, working a bit as a surprise drop. When the net is down you are allowed to stick things to it as words/sentence/draw. It will then get back to its 2D nature acting as a collection of what you feed it.
+The net is going down by the end of the day (timer preset), working a bit as a surprise drop. When the net is down you are allowed to stick things to it as words/sentence/draw. It will then get back to its 2D nature acting as a collection of what you feed it.
 By being fixed to the ceiling, you never know when the present will fall down back to you. 
 
 ![](images/lightnetcaught_prototype.jpeg)
@@ -89,7 +118,7 @@ By being fixed to the ceiling, you never know when the present will fall down ba
 ![](images/lightnetcaught_storyboard.jpg)
 
 
-### 2.The Reverse reminder
+### 3.The Reverse reminder
 A soft robot working as a time-capsule creator
 
 #### Summary
@@ -102,19 +131,7 @@ The paper going out is delivering message trhough a screen down to the user as p
 ![](images/reversereminder_prototype1.jpeg)
 ![](images/reversereminder_storyboard.jpg)
 
-### 3.MEMENTO MORI CALENDAR
-A soft robot performing the time passing
-
-#### Summary
-Working as a clock of life, this robot sporead a roll of paper going from the ceiling to the groundfloor. As a metaphor of the death coming this robot warn the user of the time passing with some indication during the process of time flying. 
-
-#### How does it work ?
-The paper going out is printed delivering message down to the user as the time or any memories of the past through sentence and images.
-
-### How does it work ?
-
-![](images/mementomori_prototype.jpeg)
-![](images/mementomori_storyboard.jpg)
 
 ## Next Steps
-I would like to push the idea of the system for catching things from the ceiling.
+Pushing the system for catching things from the ceiling 
+Thinking how to mix the idea of ceiling as a catcher and how to curate this what is collected.
