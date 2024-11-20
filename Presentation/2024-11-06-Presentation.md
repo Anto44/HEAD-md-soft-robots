@@ -3,7 +3,7 @@
 - Master Media Design + O2R
 
 ## Area of intervention
-Witnessing and catching traces of  life by archiving them through a time capsule. 
+Witnessing and catching traces of  life by archiving them through a new time capsule. 
  
 ![](images/spiderweb.jpg)
 ![](images/reversereminder_inspi1.jpg)
@@ -56,6 +56,7 @@ Through this idea of verticality with space around I kept asking myself about th
 All those bulb or hole in this inhabitated area. 
 
 ![](images/ceiling.png)
+![](images/ceiling.jpeg)
 
 ![](images/ceiling2.png)
 
