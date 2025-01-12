@@ -2,11 +2,11 @@
 - Soft Robots
 - Master Media Design + O2R
 
-## Project title 
+## Troy 
 Think a simple, straightforward title, can also be poetic or playful but keep it short. 
 
 ## Research Question / area of research
-What is the relationship we have with our daily-object we use everyday? In which way do they define our behaviour ? How can they leave traces about our passage by recording our passage ?
+What is the relationship we have with our daily-object we use everyday? In which way do they define our behaviour ? How can they leave traces about our passage ?
 
 ## Pitch
 A tray recording your presence in a domestic context. Depending of its placement, the interaction will lead to a souvenir or trace of your passage translated by a cyanotype print. 
